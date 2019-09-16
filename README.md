@@ -1,4 +1,4 @@
-# ChromeCalendarExtension
+# Chrome Calendar Extension (minor mod)
 Modified version of the Google Chrome Calendar Extension
 
 - Made background darker so that "time until next meeting" can be clearly read.
